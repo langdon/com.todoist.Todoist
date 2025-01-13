@@ -19,7 +19,9 @@
         </ul>
         <p>Available on any device, Todoist will quickly become your hub for getting work and life organized.</p>
         <p>Happy organizing!</p>
-        <ul><li>•</li></ul>
+        <ul>
+            <li>•</li>
+        </ul>
         <p>Questions? Feedback? Visit get.todoist.help or reach out on Twitter at @todoist.</p>
         <p>NOTE: This wrapper is not created by, affiliated with, or supported by Doist.</p>
     </description>
@@ -44,6 +46,9 @@
     <update_contact>jurf_AT_riseup.net</update_contact>
     <content_rating type="oars-1.1"/>
     <releases>
+        <release version="9.7.6" date="2024-09-17">
+            <description></description>
+        </release>
         <release version="8.10.1" date="2023-11-14"/>
         <release version="8.4.3" date="2023-07-03"/>
         <release version="8.2.0" date="2023-05-11"/>
